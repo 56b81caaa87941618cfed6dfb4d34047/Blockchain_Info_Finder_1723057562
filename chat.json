@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says Submit",
+        "message_id": "guest07082024190825",
+        "timestamp": "07082024190825",
+        "component_file_name": "simple_footer_component_1723057564",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain news feed toggle button\", \"checked\": true}, {\"feature\": \"Customizable 'Hello World' greeting settings for user profiles\", \"checked\": false}, {\"feature\": \"Dark/Light mode switch button\", \"checked\": true}, {\"feature\": \"Blockchain information filter options (e.g., by blockchain, topic)\", \"checked\": false}, {\"feature\": \"Notification settings button for new blockchain updates\", \"checked\": true}, {\"feature\": \"Language selection button for multilingual support\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 111, \"time_taken\": \"0:00:06.288576\"}",
         "message_id": "guest07082024190731",

@@ -36,5 +36,11 @@
         "content": "Great, adding a Submit button now.",
         "timestamp": "07082024190826",
         "message_id": "guest07082024190825"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain news feed toggle\", \"checked\": true}, {\"feature\": \"User customizable news categories\", \"checked\": false}, {\"feature\": \"Push notification settings for new information\", \"checked\": true}, {\"feature\": \"Dark/light mode switch\", \"checked\": false}, {\"feature\": \"Advanced search with filters by blockchain type\", \"checked\": true}, {\"feature\": \"Feedback form for user suggestions\", \"checked\": false}], \"input_token_count\": 214, \"output_token_count\": 93, \"time_taken\": \"0:00:05.278476\"}",
+        "timestamp": "07082024190831",
+        "message_id": "guest07082024190825"
     }
 ]

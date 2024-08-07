@@ -30,5 +30,11 @@
         "content": "add a button that says Submit",
         "timestamp": "07082024190825",
         "message_id": "guest07082024190825"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, adding a Submit button now.",
+        "timestamp": "07082024190826",
+        "message_id": "guest07082024190825"
     }
 ]
